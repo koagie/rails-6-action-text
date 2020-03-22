@@ -1,0 +1,11 @@
+
+ja:
+  activerecord:
+         errors:
+           models:
+               post:
+                attributes:
+                          title:
+                            blank: が空です。
+
+
